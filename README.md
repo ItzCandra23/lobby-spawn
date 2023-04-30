@@ -1,1 +1,4 @@
-# lobby-spawn
+# LobbySpawn
+* /spawn
+* /lobby
+* /setspawn
