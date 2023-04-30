@@ -1,0 +1,14 @@
+{
+  "name": "@bdsx/lobby-spawn",
+  "description": "This plugin for BDSX",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "keywords": [ "lobby-spawn", "BDSX" ],
+  "author": "ItzCandra23",
+  "homepage": "https://github.com/ItzCandra23/lobby-spawn",
+  "bdsxPlugin": true,
+  "devDependencies": {
+    "bdsx": "file:../bdsx"
+  }
+}

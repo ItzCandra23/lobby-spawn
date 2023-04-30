@@ -1,0 +1,9 @@
+{
+  "joinspawn": false,
+  "timeout": 0,
+  "position": {
+    "x": 0,
+    "y": 32767,
+    "z": 0
+  }
+}
